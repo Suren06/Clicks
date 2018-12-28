@@ -1,0 +1,17 @@
+package com.src.main.clicks;
+
+import java.util.*;
+
+public class Clciks{
+public static void main (String args[]){
+
+private String getAll(){
+int i , j, k, l;
+int valueAdd = i+j+k+l;
+int valueAdd = i-j-k-l;
+System.out.println("Total after addding" +valueAdd );
+System.out.println("Total after substraction" + valueSubStraction);
+
+}
+}
+}
